@@ -15,7 +15,6 @@
         android:layout_width="match_parent"
         android:layout_height="368dp"
         android:id="@+id/androidBot"
-        android:src="@drawable/android_robot"
         android:layout_gravity="center_horizontal"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
